@@ -9,3 +9,5 @@ let usuario2 = getUsuarioSync(2);
 console.log(usuario2);
 
 console.log("Hola Mundo!");
+
+//prueba

@@ -9,7 +9,7 @@ function getUsuarioSync(id){
     while(new Date().getTime() - startPoint <= 3000){
 
     }
-
+    
     return usuario;
 
     /* setTimeout(() => {
@@ -39,3 +39,6 @@ module.exports = {
     getUsuarioSync,
     getUsuario
 }
+
+
+//prueba
